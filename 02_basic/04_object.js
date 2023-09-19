@@ -18,5 +18,3 @@ const regularUser = {
 
 // console.log(regularUser.fullname.firstnaem);
 
-const obj1 = {1:'a'}
-

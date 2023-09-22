@@ -54,5 +54,56 @@ function loginUserMessage(username){
 }
 
 // console.log(loginUserMessage("krishna"));
-console.log(loginUserMessage());
+// console.log(loginUserMessage());
+
+
+// function calculateCartprice(num1){
+//     return num1;
+// }
+
+// console.log(calculateCartprice(5));
+
+// (...)rest operator
+
+// function calculateCartprice1(...num1){
+//     return num1;
+// }
+
+// console.log(calculateCartprice1(200, 400, 500, 800, 345));
+
+
+// function calculateCartprice2(val1, val2, ...num1){
+//     return num1;
+// }
+
+// console.log(calculateCartprice2(200, 400, 500, 800, 345));
+
+
+const user ={
+    username: "krishna",
+    prices: 999
+}
+
+function handleObject(anyobject){
+    console.log(`Username is ${anyobject.username} and price is ${anyobject.prices}`);
+}
+
+// handleObject(user);
+
+// handleObject({
+//     username: "radha",
+//     prices: 234
+// })
+
+
+const myNewarr = [200, 343, 454, 676, 454]
+
+function returnSecondValue(getArr){
+    return getArr[1]
+}
+
+// console.log(returnSecondValue(myNewarr));
+
+console.log(returnSecondValue([200, 349, 500,454]));
+
 

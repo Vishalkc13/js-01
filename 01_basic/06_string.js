@@ -1,11 +1,11 @@
-// const name = "krishna"
+// const name = "krishna "
 // const repoCount = 5
 
 // console.log(name + repoCount + " RadhaRani");
 
 // console.log(`Hello My name is ${name} and my repo count is ${repoCount}`);
 
-// const gameName = new String('krishna')
+const gameName = new String('krishna')
 
 // console.log(gameName[1]);
 // console.log(gameName.__proto__);
@@ -39,5 +39,5 @@ const url = "https://withkrishna.com/radha%20krishna"
 // console.log(url.includes('Radha'));
 // console.log(url.includes('radha'));
 
-console.log(gameName1.split('-'));
-console.log(gameName2.split(' '));
+// console.log(gameName1.split('-'));
+// console.log(gameName2.split(' '));

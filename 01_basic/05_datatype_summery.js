@@ -49,8 +49,8 @@ let myYoutubename = "withkrishna"
 
 let anothername = myYoutubename;
 anothername = "harekrishna"
-console.log(myYoutubename);
-console.log(anothername);
+// console.log(myYoutubename);
+// console.log(anothername);
 
 let user ={
     email: "kumar9835vishal@gmail.com",
@@ -61,5 +61,33 @@ let user2 = user
 
 user2.email ="kumar9386vishal@gmail.com";
 
-console.log(user.email);
-console.log(user2.email);
+// console.log(user.email);
+// console.log(user2.email);
+
+
+
+//prectis-------------------------------->
+
+
+// const arr = [1,2,34,5,6]
+// // console.log(typeof arr);
+// let myObject = {
+//     name: "krishna",
+//     age: 16,
+//     salary: 1
+// }
+
+// // console.log(myObject);
+
+// const myfun = function(){
+//     console.log(myObject);
+// }
+
+// // myfun();
+
+// const myfun2 = ()=> {
+//     // console.log(myfun());
+//     myfun();
+// }
+
+// myfun2();

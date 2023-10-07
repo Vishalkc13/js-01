@@ -11,14 +11,14 @@ console.log(4
 let name = "vishal" 
 let age = 19
 let isLoggedIn = false
-
-//number => 2 to power 53
-//bigint
-//string => ""
-//boolean => true/false
-//null => standalone value
-//undefined => (let name;)
-//symbol => unique
+ 
+// number => 2 to power 53
+// bigint
+// string => ""
+// boolean => true/false
+// null => standalone value
+// undefined => (let name;)
+// symbol => unique
 
 
 //object
